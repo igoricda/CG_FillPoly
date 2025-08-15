@@ -3,14 +3,9 @@ FillPoly implementation using Python and TKinter for Computer Graphics disciplin
 
 ## Instructions
 To execute this code, it is needed to install TKinter:
-
-  In Debian distros:
-  
-  $ sudo apt install tkinter
-  
-  In Windows, it comes with Python
-
+&nbsp In Debian distros:
+&nbsp &nbsp  $ sudo apt install tkinter
+&nbsp  In Windows, it comes with Python
 Then, on CLI:
-
-  $ python3 fillpoly.py
+&nbsp &nbsp  $ python3 fillpoly.py
 
