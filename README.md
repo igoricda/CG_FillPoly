@@ -2,7 +2,7 @@
 FillPoly implementation using Python and TKinter for Computer Graphics discipline
 
 ## Instructions
-To execute this code, it is needed to install TKinter:
+To execute this code TKinter is needed:
 
 &nbsp; In Debian distros:
 
